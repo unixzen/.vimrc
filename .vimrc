@@ -12,7 +12,7 @@ set t_Co=256
 syntax on
 set visualbell
 set number
-set tabstop=2
+set tabstop=1
 set smartindent
 set pastetoggle=<f5>
 set hlsearch
