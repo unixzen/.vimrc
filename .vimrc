@@ -12,7 +12,7 @@ set background=dark
 set t_Co=256
 
 syntax on
-set visualbell
+"set visualbell
 set number
 set tabstop=2
 set shiftwidth=2
