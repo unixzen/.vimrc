@@ -5,6 +5,8 @@ Plug 'morhetz/gruvbox'
 Plug 'bling/vim-airline'
 Plug 'glench/vim-jinja2-syntax'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'rust-lang/rust.vim'
+
 call plug#end()
  
 colorscheme gruvbox
