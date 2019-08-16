@@ -26,6 +26,9 @@ set ignorecase
 set noswapfile
 set nobackup
 set wildmenu
+set completeopt-=preview
+set vb t_vb=
+let g:rustfmt_autosave = 1
 
 map <C-t> :NERDTreeToggle<CR>
 
